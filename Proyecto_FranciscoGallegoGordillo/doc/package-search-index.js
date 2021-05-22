@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.salesianostriana.dam"},{"l":"com.salesianostriana.dam.controller"},{"l":"com.salesianostriana.dam.model"},{"l":"com.salesianostriana.dam.repos"},{"l":"com.salesianostriana.dam.servicio"},{"l":"com.salesianostriana.dam.servicio.base"}];updateSearchResults();
